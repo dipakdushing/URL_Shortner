@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://deekshant57:deekshant_123@practice.9w926.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:4002"
+}
